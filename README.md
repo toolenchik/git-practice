@@ -4,3 +4,4 @@ Created for Week 5 of Informatics course.
 ## Usage
 See scripts/ for shell script examples.
 Author: saidatokmurzina
+Remote repository connected.

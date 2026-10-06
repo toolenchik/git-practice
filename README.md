@@ -1,4 +1,8 @@
-# Git Practice Repository — Production
+<<<<<<< HEAD
+# Git Practice Repository — Experiment
+=======
+# Git Practice Repository — Experiment
+>>>>>>> conflict-test
 Learning Git for research data management.
 Created for Week 5 of Informatics course.
 ## Usage

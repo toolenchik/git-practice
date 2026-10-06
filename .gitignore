@@ -1,0 +1,28 @@
+# Large data files — use data access scripts instead
+*.csv
+*.tsv
+*.xlsx
+*.fasta
+*.bam
+data/raw/
+
+# Credentials and API keys — never commit these
+.env
+*.key
+config/secrets.yml
+
+# OS and editor cruft
+.DS_Store           # macOS Finder metadata
+Thumbs.db           # Windows Explorer thumbnails
+*~                  # nano and emacs backup files
+.idea/              # JetBrains IDE files
+.vscode/            # VS Code workspace settings
+
+# Python
+__pycache__/
+*.pyc
+.venv/              # virtual environments
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
